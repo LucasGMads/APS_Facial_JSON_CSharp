@@ -28,3 +28,4 @@ C:\Users\Lucas\AppData\Local\Temp\APSFacialBuild\APSFacial.deps.json
 C:\Users\Lucas\AppData\Local\Temp\APSFacialBuild\APSFacial.runtimeconfig.json
 C:\Users\Lucas\AppData\Local\Temp\APSFacialBuild\APSFacial.dll
 C:\Users\Lucas\AppData\Local\Temp\APSFacialBuild\APSFacial.pdb
+C:\Users\Lucas\Downloads\APS_Facial_JSON_CSharp_VSCode\APS_Facial_JSON_CSharp\obj\Debug\net8.0\APSFacial.sourcelink.json
